@@ -1,6 +1,6 @@
-pandas
-numpy
-plotly
-tensorflow>=2.18.0
-scikit-learn
-matplotlib
+pandas>=2.2.0,<3.0.0
+numpy>=2.1.0,<3.0.0
+plotly>=5.24.0,<6.0.0
+tensorflow>=2.18.0,<2.22.0
+scikit-learn>=1.5.0,<2.0.0
+matplotlib>=3.9.0,<4.0.0
