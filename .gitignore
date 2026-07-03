@@ -1,1 +1,37 @@
 */raw.githubusercontent.com
+
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+*.secret
+credentials.json
+service_account.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/
